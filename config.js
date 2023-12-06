@@ -12,10 +12,10 @@ var config = {
         "Mùa đông này thật ấm",
         "Khi có em ở bên cạnh",
         "Chúc em",
-        "Sinh nhật",
+        "Sinh nhật tuổi 18",
         "Thật hạnh phúc",
         "Dù cho mai sau có như thế nào đi nữa",
-        "Em hay luôn là em và mãi tỏa sáng như bây giờ",
+        "Em hay luôn là em và mãi tỏa sáng như bây giờ nhé!",
     ],
     /**
      phải viết khớp dòng chữ với ảnh 
@@ -33,10 +33,10 @@ var config = {
         "Mùa đông này thật ấm": "./imgs/emvoianh_antaco.png",
         "Khi có em ở bên cạnh": "./imgs/emvoianh_anbimbim.gif",
         "Chúc em": "./imgs/emvoianh_stickercute.gif",
-        "Sinh nhật": "./imgs/emvoianh_doiminhladepnhat.png",
+        "Sinh nhật tuổi 18": "./imgs/emvoianh_doiminhladepnhat.png",
         "Thật hạnh phúc": "./imgs/emquaxinhdep_voihoaanhtang_final.png",
         "Dù cho mai sau có như thế nào đi nữa": "./imgs/emvoianh_minhquadep.png",
-        "Em hay luôn là em và mãi tỏa sáng như bây giờ": "./imgs/emquaxinhdep_gif_8s.gif"
+        "Em hay luôn là em và mãi tỏa sáng như bây giờ nhé!": "./imgs/emquaxinhdep_gif_8s.gif"
     },
     desc: {
         turn_on: "Start !",
